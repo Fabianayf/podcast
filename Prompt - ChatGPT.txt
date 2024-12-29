@@ -7,7 +7,7 @@ O formato do roteiro deve ser
 [FINALIZAÇÃO]
 
 {REGRAS}
-no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal “ei nerd”, como se fossem escritos pelo Peter Jordan;
+no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal “ei nerd”;
 no bloco [CURIOSIDADE 1] substitua por uma curiosidade sobre como nós seres humanos conseguimos absorver melhor os conteúdos;
 no bloco [CURIOSIDADE 2] sobre uma ferramenta ou técnica para ajudar nos estudos;
 no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final “Eu sou Felipão e esse foi o Ideias para aprender rápido dessa semana;
